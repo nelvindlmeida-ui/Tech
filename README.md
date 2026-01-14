@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Data Scientist in a social care health care setting.<br>I'm looking for Machine learning roles 
+Data Scientist
 
 
 ## 🌐 Socials:
